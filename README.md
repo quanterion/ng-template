@@ -1,4 +1,4 @@
-# Angular Template Compiler [![Build Status](https://travis-ci.org/quanterion/ng-template.svg?branch=master)](https://travis-ci.org/quanterion/ng-template)
+# Angular Template Compiler [![Build Status](https://travis-ci.org/quanterion/ng-template.svg?branch=master)](https://travis-ci.org/quanterion/ng-template) [![npm version](https://badge.fury.io/js/%40quanterion%2Fng-template.svg)](https://badge.fury.io/js/%40quanterion%2Fng-template)
 
 Compile your Angular 2.x - Angular 8.x templates for print, emails, etc
 
