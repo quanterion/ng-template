@@ -6,7 +6,7 @@ Compile your Angular 2.x - Angular 8.x templates for print, emails, etc
 
 ```
 let data = { name: 'Roman' };
-let result = htmlToElement(`<div>{{name}}</div>`, data);
+let element = htmlToElement(`<div>{{name}}</div>`);
 await compileTemplate(result, data);
 ```
 
