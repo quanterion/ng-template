@@ -33,6 +33,9 @@
     "precommit": "lint-staged",
     "travis-deploy-once": "travis-deploy-once"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "lint-staged": {
     "{src,test}/**/*.ts": [
       "prettier --write",
