@@ -1,4 +1,4 @@
-# Angular Template Compiler
+# Angular Template Compiler [![Build Status](https://travis-ci.org/quanterion/ng-template.svg?branch=master)](https://travis-ci.org/quanterion/ng-template)
 
 Compile your Angular 2.x - Angular 8.x templates for print, emails, etc
 
